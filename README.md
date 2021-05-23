@@ -1,0 +1,3 @@
+- <h1>👋 Hi, I’m @ridhijain10</h1>
+- <h3>🌱 I’m currently learning Web Development</h3>
+- <h3>📫 Reach me: riddhibaid97@gmail.com</h3>
