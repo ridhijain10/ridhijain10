@@ -21,5 +21,5 @@
   <h5>Find me on🤝:</h5>
   
     <a href="https://www.instagram.com/riddhi_9710/"><img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" /></a>
-    <a href="https://www.linkedin.com/in/ridhi-jain"><img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a>
+    <a href="https://www.linkedin.com/in/ridhi-jain-43420a178"><img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" /></a>
     <a href="https://twitter.com/RiddhiJain1097"><img align="left" alt="Dave's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" /></a>
