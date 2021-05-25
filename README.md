@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @ridhijain10</h1>
+- <h1>👋 Hi, I’m Ridhi Jain</h1>
 
 - <h3>:books: Done M.C.A. from Engineering College Bikaner</h3>
 - <h3>🌱 Currently growing my skillset in Web Development</h3>
